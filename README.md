@@ -6,6 +6,7 @@ All python coding can be found in the Scripts folder
 Prepare and analyse the dataset as needed and derive insights
 # Data
 Scrapped data from www.immobilienscout24.de via www.kaggle.com on the date 14.7.2020.
+For the time series analyes and forecasting other data was needed: 
 # Presentation of findings
 I presented the results via a [Tableau-Story-Dashboard](https://public.tableau.com/app/profile/gregor.liftinger/viz/GermanHousingMarket/Story1)
 # CareerFoundry Course Learnings
